@@ -26,4 +26,4 @@ Footfall-Sheet 6 contains the data of 30th January and 31st January.
 The Total Footfall.csv file contains the total data for each day.
 
 
-Environmental readings for P.R. Gallery_January2018.pdf consists of the environment readings inside the museum.
+Environmental readings for P.R. Gallery_January2018.pdf consists of the environmental readings inside the museum.
