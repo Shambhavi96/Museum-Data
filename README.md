@@ -23,10 +23,7 @@ Footfall-Sheet 5 contains the data from 24th January to 29th January.
 Footfall-Sheet 6 contains the data of 30th January and 31st January.
 
 
-The anim.csv file contains the total data for each day.
+The Total Footfall.csv file contains the total data for each day.
 
 
-The index.html visualises the total footfall in a bar graph.
-
-
-Environmental readings for P.R. Gallery_January2018.pdf consists of the climate data.
+Environmental readings for P.R. Gallery_January2018.pdf consists of the environment readings inside the museum.
